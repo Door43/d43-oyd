@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[oyd:home|Door43 (oyd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-oyd|d43-oyd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-oyd/archive/master.zip|d43-oyd.zip]]
+
+**Recent Changes**
+{{changes>ns = oyd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/oyd|Ethnologue data]]
+
